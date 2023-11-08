@@ -14,7 +14,7 @@ const App: FC<Props> = ({ value }) => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React!</p>
-        <p>2</p>
+        <p>22</p>
         <p>
           <button
             role="button"
